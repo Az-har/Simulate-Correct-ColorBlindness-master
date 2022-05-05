@@ -17,7 +17,7 @@ This Script simulates images based on how people with colorblindness would perce
 
 Go to the directory of your choice in terminal, and run the command below.
 ```shell
-git clone https://github.com/tsarjak/Simulate-Correct-ColorBlindness.git
+https://github.com/Az-har/Simulate-Correct-ColorBlindness-master.git
 ```
 
 ### Installing dependencies
